@@ -1,0 +1,11 @@
+div{
+    display:inline;
+    padding:10px;
+   border-style: solid;
+   border-color:rgba(128, 58, 91, 0.842);
+   border-radius:10px;
+   background-color:rgb(235, 215, 215) ;
+   margin-right:7px;
+   font-size:100%;
+    
+}

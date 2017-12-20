@@ -1,0 +1,47 @@
+.aside
+{
+    height:83%;
+    width:20%;
+    left:80.5%;
+    top:17%;
+    border:double;
+    position:absolute ;
+    border-style:solid;
+    border-width:5%; 
+    border-color:purple;
+    background-color:white;   
+}
+.picture1
+{
+    height:40%;
+    width:90%;
+    top:5%;
+    left:5%;
+    border:double;
+    position:absolute ;
+    border-style:solid;
+    border-width:5%; 
+    border-color:purple;
+    background-color:white;   
+
+}
+.picture2
+{
+    height:40%;
+    width:90%;
+    top:50%;
+    left:5%;
+    border:double;
+    position:absolute ;
+    border-style:solid;
+    border-width:5%; 
+    border-color:purple;
+    background-color:white;   
+
+}
+img
+{
+    height:100%;
+    width:100%;
+    position:relative; 
+}
